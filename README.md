@@ -5,7 +5,7 @@
 
 ImageHost is accessed at localhost:8080/ImageHost
 
-Selenium is coded in Java 8, packaged using maven 3.3.9 and deployed using Tomcat 8.5.3. 
+ImageHost is coded in Java 8, packaged using maven 3.3.9 and deployed using Tomcat 8.5.3. 
 Spring framework 4.3.0 is used as the programming model. The database used is MySQL 6.3. 
 
 More information about version information could be found in pom.xml.
